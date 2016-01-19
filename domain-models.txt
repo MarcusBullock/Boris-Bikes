@@ -1,0 +1,29 @@
+
+user story 1:
+
+nouns = bike, docking station, bike
+verbs = like, use, release
+
+user story 2:
+
+nouns = bike
+verbs = use, like, see, working
+
+
+
+
+OBJECTS                      MESSAGES
+                    
+person                       check_bike_is_working
+bike                         release_the_bike
+docking station              
+
+
+
+DIAGRAM:
+
+The object is bike, and we want the object to be given the message by the docking station - “RELEASE”.
+
+In the next user story, the bike is again the object, which is given the message, “IS THIS BIKE WORKING?”. -> TRUE / FALSE
+
+
